@@ -20,6 +20,6 @@ This repository holds the sources for the LVI-LFB Control Flow Hijacking attack 
 ## Additional resources
 
 * Bitdefender blog post: https://businessinsights.bitdefender.com/bitdefender-researchers-discover-new-side-channel-attack
-* Official LVI web-site - https://www.lviattack.eu
+* Official LVI web-site - https://lviattack.eu
 * Intel Security Advisory - https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00334.html
 * Intel Deep Dive - https://software.intel.com/security-software-guidance/insights/deep-dive-load-value-injection
